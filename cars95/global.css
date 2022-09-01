@@ -82,7 +82,7 @@
 }
 .main {
     float: left;
-    height: 2000px;
+    /* height: 2000px; */
     width: 88%;
     background-color: rgb(255, 255, 255);
 }
@@ -378,10 +378,10 @@
         width: 62%;
     }
     .sidebar {
-        width: 14%;
+        width: 100%;
     }
     .main {
-        width: 86%;
+        width: 100%;
         height: auto;
     }
     .topbrandtext {
@@ -389,36 +389,52 @@
     }
     .topbrandimg{
         border: solid rgb(255, 255, 255) 17px;
-        height: 180px;
+        height: 190px;
+        padding-top: 0;
     }
     .lamborghini {
-        width: 30%;
+        width: 37%;
         float: left;
         margin: 0;
-        margin-left: 25px;
+        /* margin-left: 25px; */
+        /* border: solid black; */
+        height: 157px;
+        padding-top: 20px;
     }
     .lamborghini h3{
         font-size: 13px;
+        margin-top: 15px;
     }
     .rolls {
         margin: 0;
-        margin-left: 23px;
+        /* margin-left: 23px; */
+        width: 26%;
+        /* border: solid black; */
+        height: 157px;
+        padding-top: 10px;
+        /* margin-left: 12px; */
     }   
     .rolls h3 {
         font-size: 13px;
     }
     .ferrari {
-        margin-left: 23px;
+        margin: 0;
+        width: 33.33%;
+        /* border: solid black; */
+        height: 157px;
+        padding-top: 10px;
+        margin-left: 12px;
     }
     .ferrari h3 {
         font-size: 13px;
+        margin-top: 10px;
     }
     .bs {
         margin-bottom: 10px
     }
     .bestseller {
         border: solid rgb(255, 255, 255) 17px;
-        height: 306px;
+        height: 330px;
     }
     .bestseller img {
         width: 100%;
