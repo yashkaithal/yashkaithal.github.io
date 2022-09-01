@@ -4,14 +4,13 @@
     font-family: sans-serif;
 }
 .container {
-    background-color: red;
+    background-color: rgb(255, 255, 255);
 }
 .logo {
-    /* border: solid red; */
     height: 60px;
     width: 8%;
     float: left;
-    background-color: red;
+    background-color: rgb(255, 255, 255);
 }
 .logo img {
     width: 100%;
@@ -19,13 +18,12 @@
     padding-left: 7px;
 }
 .head {
-    /* border: solid blue; */
     height: 60px;
     width: 22%;
     float: left;
     padding-top: 15px;
     padding-left: 35px;
-    background-color: red;
+    background-color: rgb(255, 255, 255);
 }
 .head h1 {
     font-weight: 700;
@@ -33,29 +31,25 @@
     
 }
 .nevigation {
-    /* border: solid purple; */
     height: 60px;
     width: 70%;
     float: left;
     padding: 0;
-    /* padding-top: 20px; */
-    background-color: red;
+    background-color: rgb(255, 255, 255);
 }
 .nevigation li {
-    /* border: solid; */
     float: left;
     list-style: none;
     width: 25%;
-    /* margin-right: 0; */
     text-align: center;
     height: 60px;
     padding-top: 17px;
-    background-color: red;
+    background-color: rgb(255, 255, 255);
 }
 .nevigation a {
     display: block;
     text-decoration: none;
-    background-color: red;
+    background-color: rgb(255, 255, 255);
     color: black;
     margin-top: 20px;
 }
@@ -63,29 +57,22 @@
     border-bottom: solid 4px black;
 }
 .sidebar {
-    /* border: solid rgb(0, 90, 103); */
     width: 12%;
-    /* height: 600px; */
     float: left;
     padding-left: 0;
-    background-color: red;
-    /* padding-top: 20px; */
+    background-color: rgb(255, 255, 255);
 }
 .sidebar li {
     list-style: none;
-    /* border: solid green; */
-    background-color: red;
-    /* border-top: solid black; */
-    /* border-bottom: solid black; */
+    background-color: rgb(255, 255, 255);
 }
 .sidebar a {
-    /* border: solid; */
     text-decoration: none;
     display: block;
     text-align: center;
     text-transform: uppercase;
     font-size: 85%;
-    background-color: rgb(169, 0, 0);
+    background-color: rgb(175, 175, 175);
     color: black;
     padding: 6px 0;
     margin-bottom: 3px; 
@@ -94,35 +81,30 @@
     border-left: solid 6px black;
 }
 .main {
-    /* border: solid green; */
     float: left;
     height: 2000px;
     width: 88%;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
 }
 .topbrandtext {
-    color: red;
+    color: rgb(0, 0, 0);
     text-align: center;
-    /* border: solid white; */
     margin: 40px 0;
 }
 .topbrandimg {
     width: 100%;
-    border: solid rgb(0, 0, 0) 30px;
+    border: solid rgb(255, 255, 255) 30px;
     height: 350px;
     padding-top: 30px;
-    /* margin-top: 15px; */
-    background-color: red;
+    background-color: rgb(175, 175, 175);
 }
 .lamborghini {
     width: 30%;
-    /* border: solid; */
     float: left;
     margin-left: 90px;
 } 
 .lamborghini img{
     width: 100%;
-    /* border: solid rgb(92, 45, 45); */
 }
 .lamborghini h3 {
     text-align: center;
@@ -133,13 +115,11 @@
 }
 .rolls {
     width: 17.25%;
-    /* border: solid; */
     float: left;
     margin-left: 90px;
 }
 .rolls img {
     width: 100%;
-    /* border: solid rgb(92, 45, 45); */
 }
 .rolls h3 {
     text-align: center;
@@ -149,13 +129,11 @@
 }
 .ferrari {
     width: 22.7%;
-    /* border: solid; */
     float: left; 
     margin-left: 90px;
 }
 .ferrari img {
     width: 100%;
-    /* border: solid rgb(92, 45, 45); */
 }
 .ferrari h3 {
     text-align: center;
@@ -164,29 +142,25 @@
     color: rgb(0, 0, 0);
 }
 .bs {
-    color: red;
+    color: rgb(0, 0, 0);
     text-align: center;
-    /* border: solid; */
     margin: 40px 0;
 }
 .bestseller {
-    border: solid black 30px;
-    background-color: red;
+    border: solid rgb(255, 255, 255) 30px;
+    background-color: rgb(175, 175, 175);
     height: 324px;
 }
 .bestseller img {
-    /* border: solid blue; */
     width: 60%;
     float: left;
 }
 .bestseller h2 {
-    /* border: solid peru; */
     width: 40%;
     float: left;
     margin-top: 20px;
 }
 .bestseller ul {
-    /* border: solid black; */
     width: 30%;
     float: left;
     margin-top: 10px;
@@ -197,17 +171,17 @@
 }
 .hc {
     text-align: center;
-    color: red;
+    color: rgb(0, 0, 0);
     margin: 30px 0;
 }
 .hypercars {
-    border: solid rgb(0, 0, 0) 30px ;
+    border: solid rgb(255, 255, 255) 30px ;
     height: 800px;
     margin-top: 60px;
-    background-color: red;
+    background-color: rgb(175, 175, 175);
 }
 .jesko {
-    border: solid rgb(0, 0, 0);
+    border: solid rgb(255, 255, 255);
     width: 28%;
     float: left;
     margin-top: 37px;
@@ -219,20 +193,19 @@
     height: 199px;
 }
 .jesko h3 {
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 6px 6px 7px 6px;
-    background-color: rgb(0, 0, 0);
-    border-bottom: solid red;
+    background-color: rgb(255, 255, 255);
+    border-bottom: solid rgb(255, 255, 255);
 }
 .jesko ul {
     padding-left: 0;
     padding-top: 3px;
 }
 .jesko li {
-    color: rgb(255, 0, 0);
-    background-color: rgb(0, 0, 0);
-    /* padding-left: 15px; */
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     list-style: none;
     padding-left: 30px;
     padding-top: 3px;
@@ -242,27 +215,26 @@
     float: left;
     margin-top: 37px;
     margin-left: 49px;
-    border: solid rgb(0, 0, 0);
+    border: solid rgb(255, 255, 255);
 }
 .mclaren img {
     width: 100%;
     height: 199px;
 }
 .mclaren h3 {
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 6px 6px 7px 6px;
-    background-color: rgb(0, 0, 0);
-    border-bottom: solid red ;
+    background-color: rgb(255, 255, 255);
+    border-bottom: solid rgb(255, 255, 255) ;
 }
 .mclaren ul {
     padding-left: 0;
     padding-top: 3px;
 }
 .mclaren li {
-    color: rgb(255, 0, 0);
-    background-color: rgb(0, 0, 0);
-    /* padding-left: 15px; */
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     list-style: none;
     padding-left: 30px;
     padding-top: 3px;
@@ -272,33 +244,32 @@
     float: left;
     margin-top: 37px;
     margin-left: 49px;
-    border: solid rgb(0, 0, 0);
+    border: solid rgb(255, 254, 254);
 }
 .buggati img {
     width: 100%;
     height: 199px;
 }
 .buggati h3 {
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 6px 6px 7px 6px;
-    background-color: rgb(0, 0, 0);
-    border-bottom: solid red ;
+    background-color: rgb(255, 255, 255);
+    border-bottom: solid rgb(175, 175, 175);
 }
 .buggati ul {
     padding-left: 0;
     padding-top: 3px;
 }
 .buggati li {
-    color: rgb(255, 0, 0);
-    background-color: rgb(0, 0, 0);
-    /* padding-left: 15px; */
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     list-style: none;
     padding-left: 30px;
     padding-top: 3px;
 }
 .pagani {
-    border: solid rgb(0, 0, 0);
+    border: solid rgb(255, 255, 255);
     width: 28%;
     float: left;
     margin-top: 37px;
@@ -310,26 +281,25 @@
     height: 199px;
 }
 .pagani h3 {
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 6px 6px 7px 6px;
-    background-color: rgb(0, 0, 0);
-    border-bottom: solid red;
+    background-color: rgb(255, 255, 255);
+    border-bottom: solid rgb(175, 175, 175);
 }
 .pagani ul {
     padding-left: 0;
     padding-top: 3px;
 }
 .pagani li {
-    color: rgb(255, 0, 0);
-    background-color: rgb(0, 0, 0);
-    /* padding-left: 15px; */
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     list-style: none;
     padding-left: 30px;
     padding-top: 3px;
 }
 .astonmartin {
-    border: solid rgb(0, 0, 0);
+    border: solid rgb(255, 255, 255);
     width: 28%;
     float: left;
     margin-top: 37px;
@@ -341,26 +311,25 @@
     height: 199px;
 }
 .astonmartin h3 {
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 6px 6px 7px 6px;
-    background-color: rgb(0, 0, 0);
-    border-bottom: solid red;
+    background-color: rgb(255, 255, 255);
+    border-bottom: solid rgb(175, 175, 175);
 }
 .astonmartin ul {
     padding-left: 0;
     padding-top: 3px;
 }
 .astonmartin li{
-    color: rgb(255, 0, 0);
-    background-color: rgb(0, 0, 0);
-    /* padding-left: 15px; */
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     list-style: none;
     padding-left: 30px;
     padding-top: 3px;
 }
 .sian {
-    border: solid rgb(0, 0, 0);
+    border: solid rgb(255, 255, 255);
     width: 28%;
     float: left;
     margin-top: 37px;
@@ -368,31 +337,29 @@
 }
 .sian img {
     width: 100%;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     height: 199px;
 }
 .sian h3 {
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 6px 6px 7px 6px;
-    background-color: rgb(0, 0, 0);
-    border-bottom: solid red;
+    background-color: rgb(255, 255, 255);
+    border-bottom: solid rgb(175, 175, 175);
 }
 .sian ul {
     padding-left: 0;
     padding-top: 3px;
 }
 .sian li {
-    color: rgb(255, 0, 0);
-    background-color: rgb(0, 0, 0);
-    /* padding-left: 15px; */
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     list-style: none;
     padding-left: 30px;
     padding-top: 3px;
 }
  @media screen and (max-width:600px){
     .logo {
-        /* border: solid blue; */
         width: 18%;
     }
     .logo img {
@@ -401,8 +368,6 @@
     }
     .head {
         width: 20%;
-        /* border: solid; */
-        /* margin-left: 0; */
         padding-left: 0;
     }
     .head h1 {
@@ -423,11 +388,10 @@
         margin-bottom: 10px;
     }
     .topbrandimg{
-        border: solid rgb(0, 0, 0) 17px;
+        border: solid rgb(255, 255, 255) 17px;
         height: 180px;
     }
     .lamborghini {
-        /* border: solid rgb(255, 0, 225); */
         width: 30%;
         float: left;
         margin: 0;
@@ -437,7 +401,6 @@
         font-size: 13px;
     }
     .rolls {
-        /* border: solid blue; */
         margin: 0;
         margin-left: 23px;
     }   
@@ -445,7 +408,6 @@
         font-size: 13px;
     }
     .ferrari {
-        /* border: solid blue; */
         margin-left: 23px;
     }
     .ferrari h3 {
@@ -455,11 +417,10 @@
         margin-bottom: 10px
     }
     .bestseller {
-        border: solid black 17px;
-        height: 300px;
+        border: solid rgb(255, 255, 255) 17px;
+        height: 306px;
     }
     .bestseller img {
-        /* border: solid blue; */
         width: 100%;
     }
     .bestseller h2 {
@@ -470,11 +431,9 @@
     }
     .bestseller ul {
         width: 100%;
-        /* border: solid blue; */
         margin-top: 10px;
     }
     .bestseller li {
-        /* border: solid blue; */
         font-size: 15px;
         margin: 0;
     }
