@@ -11,6 +11,7 @@
     width: 8%;
     float: left;
     background-color: rgb(255, 255, 255);
+    /* border-bottom: solid 1px black; */
 }
 .logo img {
     width: 100%;
@@ -24,6 +25,7 @@
     padding-top: 15px;
     padding-left: 35px;
     background-color: rgb(255, 255, 255);
+    /* border-bottom: solid 1px black; */
 }
 .head h1 {
     font-weight: 700;
@@ -36,6 +38,7 @@
     float: left;
     padding: 0;
     background-color: rgb(255, 255, 255);
+    /* border-bottom: solid 31px black; */
 }
 .nevigation li {
     float: left;
@@ -61,6 +64,8 @@
     float: left;
     padding-left: 0;
     background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    /* border-top: solid 1px black; */
 }
 .sidebar li {
     list-style: none;
@@ -85,6 +90,7 @@
     /* height: 2000px; */
     width: 88%;
     background-color: rgb(255, 255, 255);
+    /* border-top: solid 1px black; */
 }
 .topbrandtext {
     color: rgb(0, 0, 0);
@@ -358,6 +364,390 @@
     padding-left: 30px;
     padding-top: 3px;
 }
+.brandcontainer {
+    width: 100%;
+    /* border: solid; */
+}
+.brandcontainer div {
+    width: 22%;
+    border: solid rgb(175, 175, 175) 4px;
+    float: left;
+    height: 200px;
+    margin-left: 38px;
+    margin-bottom: 38px;
+}
+.brandcontainer img {
+    width: 70%;
+    margin-left: 15%;
+}
+.rollsroyce  h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 14px;
+}
+.rollsroyce img {
+    width: 47%;
+    margin-left: 75px;
+    margin-top: 10px;
+}
+.martin {
+    margin-top: 38px;
+}
+.martin img {
+    margin-top: 20px;
+}
+.martin h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 27px;
+}
+.lambo {
+    margin-top: 38px;
+}
+.lambo img {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.lambo h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 27px;
+}
+.buggati2 {
+    margin-top: 38px;
+}
+.buggati2 img {
+    margin-top: 15px;
+}
+.buggati2 h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 32px;
+}
+.Koenigsegg {
+    margin-top: 38px;
+}
+.Koenigsegg img {
+    width: 50%;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+.Koenigsegg h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    /* margin-top: 0px; */
+}
+.ferrari2 img {
+    width: 65%;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+.ferrari2 h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.McLaren img {
+    margin-top: 20px;
+}
+.McLaren h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 27px;
+}
+.pagani2 img {
+    margin-top: 15px;
+} 
+.pagani2 h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 35px;
+}
+.bmw img {
+    width: 55%;
+    margin-left: 65px;
+}
+.bmw h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 1px;
+}
+.audi img {
+    margin-top: 25px;
+}
+.audi h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 22px;
+}
+.porsche img {
+    margin-top: 20px;
+}
+.porsche h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 27px;
+}
+.jaguar img {
+    margin-top: 10px;
+}
+.jaguar h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    /* margin-top: 14px; */
+}
+.mercedes img {
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 32px;
+}
+.mercedes h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;   
+}
+.cadillac img {
+    margin-top: 20px;
+}
+.cadillac h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 26px;
+}
+.alpha img {
+    width: 60%;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.alpha h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 14px;
+}
+.bentley img {
+    margin-top: 25px;
+}
+.bentley h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 22px;
+}
+.volvo img {
+    width: 80%;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.volvo h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.maserati img{
+    width: 80%;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.maserati h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.landrover img {
+    margin-top: 15px;
+}
+.landrover h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 33px;
+}
+.tesla img {
+    width: 45%;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.tesla h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.mini img {
+    margin-top: 25px;
+}
+.mini h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 50px;   
+}
+.mazda img{
+    width: 55%;
+    margin-top: 10px;
+    margin-left: 67px;
+}
+.mazda h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 23px; 
+}
+.lotus img {
+    width: 55%;
+    margin-top: 0px;
+    margin-left: 65px;
+}
+.lotus h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 2px;
+}
+.lexus img {
+    width: 70%;
+    margin-top: 10px;
+}
+.lexus h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 14px;
+}
+.chevrolet img {
+    width: 85%;
+    margin: 27px;
+}
+.chevrolet h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 3px;
+}
+.mazzanti img {
+    width: 55%;
+    margin-left: 65px;
+}
+.mazzanti h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 1px;
+}
+.peugeot img {
+    width: 55%;
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.peugeot h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.wmotors img {
+    width: 90%;
+    margin-left: 15px;
+    margin-top: 12px;
+}
+.wmotors h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 2px;
+}
+.chrysler img{
+    width: 85%;
+    margin-left: 17px;
+}
+.chrysler h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.ds img {
+    margin-top: 18px;
+}
+.ds h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
+.volsworgen img {
+    width: 45%;
+    margin-left: 75px;
+    margin-top: 15px;
+}
+.volsworgen h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 12px;
+}
+.mitsubishi img {
+    width: 45%;
+    margin-left: 75px;
+    margin-top: 15px;
+}
+.mitsubishi h2 {
+    border: solid rgb(175, 175, 175);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+
  @media screen and (max-width:600px){
     .logo {
         width: 18%;
@@ -454,6 +844,7 @@
         margin: 0;
     }
  }
+ 
  .footer {
     border: solid rgb(172, 83, 0);
     background-color: rgb(255, 170, 78);
