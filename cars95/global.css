@@ -84,6 +84,7 @@
 }
 .sidebar a:hover {
     border-left: solid 6px black;
+    border-right: solid 6px black;
 }
 .main {
     float: left;
@@ -748,27 +749,57 @@
 }
 
 
- @media screen and (max-width:600px){
+ @media screen and (max-width:450px){
+    * {
+        box-sizing: border-box;
+        /* margin: 0; */
+        font-family: sans-serif;
+    }
     .logo {
-        width: 18%;
+        width: 40%;
+        /* border: solid red; */
+        height: 80px;
     }
     .logo img {
-        padding-left: 1px;
-        padding-top: 14px;
+        /* padding-left: 1px; */
+        /* padding-top: 14px; */
+        margin-top: 4px;
+        margin-left: 5px;
+        width: 90%;
+        /* border: solid black; */
     }
     .head {
-        width: 20%;
+        width: 60%;
         padding-left: 0;
+        /* border: solid rgb(112, 44, 55); */
+        height: 80px;
     }
     .head h1 {
-        font-size: 20px;
+        font-size: 40px;
         padding-left: 4px;
+        /* border: solid red; */
     }
     .nevigation {
-        width: 62%;
+        width: 100%;
+        /* border: solid; */
+        padding: 0;
+        margin: 0;
+        height: 20px;
+        margin-top: 10px;
+    }
+    .nevigation li {
+        padding: 0;
+        margin: 0;
+        height: 20px;
+        /* border: solid red; */
+    }
+    .nevigation a {
+        /* border: solid; */
+        margin: 0
     }
     .sidebar {
         width: 100%;
+        margin-top: 20px;
     }
     .main {
         width: 100%;
@@ -776,51 +807,70 @@
     }
     .topbrandtext {
         margin-bottom: 10px;
+        margin-top: 20px;
     }
     .topbrandimg{
         border: solid rgb(255, 255, 255) 17px;
-        height: 190px;
+        height: 850px;
         padding-top: 0;
     }
     .lamborghini {
-        width: 37%;
-        float: left;
+        width: 100%;
+        /* float: left; */
         margin: 0;
         /* margin-left: 25px; */
         /* border: solid black; */
-        height: 157px;
-        padding-top: 20px;
+        /* height: 157px; */
+        /* padding-top: 20px; */
+        margin-top: 40px;
     }
     .lamborghini h3{
-        font-size: 13px;
+        font-size: 23px;
         margin-top: 15px;
+        /* border: solid; */
+        background-color: rgb(230, 230, 230);
     }
     .rolls {
         margin: 0;
         /* margin-left: 23px; */
-        width: 26%;
+        width: 100%;
         /* border: solid black; */
-        height: 157px;
-        padding-top: 10px;
-        /* margin-left: 12px; */
+        /* height: 157px; */
+        /* padding-top: 10px; */
+        /* margin-left: 62px; */
+        margin-top: 40px;
+        /* height: 225px; */
     }   
+    .rolls img {
+        width: 60%;
+        margin-left: 62px;
+    }
     .rolls h3 {
-        font-size: 13px;
+        font-size: 23px;
+        /* border: solid; */
+        background-color: rgb(230, 230, 230);
     }
     .ferrari {
         margin: 0;
-        width: 33.33%;
+        width: 100%;
         /* border: solid black; */
-        height: 157px;
-        padding-top: 10px;
-        margin-left: 12px;
+        /* height: 157px; */
+        /* padding-top: 10px; */
+        /* margin-left: 23px; */
+        margin-top: 40px;
+    }
+    .ferrari img {
+        width: 80%;
+        margin-left: 30px;
     }
     .ferrari h3 {
-        font-size: 13px;
+        font-size: 23px;
         margin-top: 10px;
+        /* border: solid; */
+        background-color: rgb(230, 230, 230);
     }
     .bs {
-        margin-bottom: 10px
+        margin-bottom: 10px;
     }
     .bestseller {
         border: solid rgb(255, 255, 255) 17px;
@@ -843,6 +893,37 @@
         font-size: 15px;
         margin: 0;
     }
+    .hc {
+        margin-bottom: 0;
+    }
+    .hypercars {
+        margin-top: 0;
+        height: 2022px;
+    }
+ }
+ .jesko {
+    width: 95%;
+    margin: 7px 0px 0px 7px;
+ }
+ .mclaren {
+    width: 95%;
+    margin: 15px 0px 0px 7px;
+ }
+ .buggati {
+    width: 95%;
+    margin: 15px 0px 0px 7px;
+ }
+ .pagani {
+    width: 95%;
+    margin: 15px 0px 0px 7px; 
+ }
+ .astonmartin {
+    width: 95%;
+    margin: 15px 0px 0px 7px;
+ }
+ .sian {
+    width: 95%;
+    margin: 15px 0px 0px 7px;
  }
  
  .footer {
